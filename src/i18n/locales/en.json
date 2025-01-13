@@ -1,0 +1,368 @@
+{
+	"home": "Home",
+	"about": "About Us",
+	"contact": "Contact",
+	"forms": "Sign up Form",
+
+	"mission": {
+		"title": "Our mission",
+		"content": [
+			"Our mission is to bring together professionals, enthusiasts, and innovators in the field of UI and UX to share knowledge, experiences, and emerging trends that shape the future of user interface and user experience design.",
+			"The conference aims to inspire participants to explore new perspectives, enhance their skills, and adopt modern technologies and best practices that improve human interaction with technology.",
+			"We aspire to create a space where attendees can learn from industry leaders, explore innovative approaches to design, and establish connections that support their professional growth.",
+			"We believe that exceptional user experiences begin with understanding users' needs, and our conference is a step toward building better and more user-friendly digital products."
+		]
+	},
+
+	"home-p": {
+		"welcome": "Welcome to the UI/UX Conference",
+		"info": [
+			"UI and UX – Key Design Concepts for Effective Digital Products",
+			"In the dynamic world of technology, users expect digital products to be not only functional but also user-friendly. At this conference, we’ll dive into the distinctions and synergy between UI (User Interface) and UX (User Experience) – two pillars of effective design.",
+			"User Interface (UI): The art of visually designing user interactions. UI encompasses graphical elements that shape the first impression – buttons, icons, color schemes, typography, and the overall layout, which make the product visually appealing and intuitive to use.",
+			"User Experience (UX): The process of creating a positive user journey from the first interaction with a product. UX focuses on designing flow and functionality to help users achieve their goals quickly and easily while providing them with valuable experiences. Good UX means not only convenience but also user engagement, leading to satisfaction.",
+			"Join us at the conference to explore modern techniques, best practices, and strategies for integrating UI and UX, creating digital products that captivate users and deliver memorable experiences."
+		]
+	},
+
+	"conferenceParticipants": "Conference Participants: UI/UX",
+	"participants": [
+		{
+			"name": "Dr. Anna Kowalska",
+			"title": "Lead UX Designer at TechNow Innovations",
+			"description": "Dr. Anna Kowalska specializes in user behavior research and designing experiences for mobile applications. She conducts studies on the application of artificial intelligence for personalizing user interactions."
+		},
+		{
+			"name": "Jan Nowak",
+			"title": "Director of Innovation at PixelWave",
+			"description": "Jan Nowak is responsible for implementing cutting-edge technologies in UI projects. His team develops interfaces based on AR and VR technologies for the education and entertainment industries."
+		},
+		{
+			"name": "Magdalena Wiśniewska",
+			"title": "Senior UX Specialist at WebMaster Pro",
+			"description": "Magdalena has over 10 years of experience in designing responsive interfaces. She specializes in creating accessible interfaces and solutions friendly to people with disabilities."
+		},
+		{
+			"name": "Tomasz Zieliński",
+			"title": "CEO and Co-Founder of Creatify",
+			"description": "Tomasz is an entrepreneur and the founder of Creatify, an agency specializing in e-commerce platforms. He works on user-centered design projects, aiming to maximize user satisfaction."
+		},
+		{
+			"name": "Dr. Marta Nowicka",
+			"title": "Human-Computer Interaction Expert at SmartLab",
+			"description": "Dr. Nowicka focuses on research into interface ergonomics and their impact on work efficiency. She leads research projects for healthcare companies, focusing on creating safe and user-friendly digital solutions."
+		},
+		{
+			"name": "Piotr Wojciechowski",
+			"title": "UI Designer at DigitalCraft",
+			"description": "Piotr creates interfaces for desktop and mobile applications. His work emphasizes simplicity and elegance, often employing minimalism and design principles based on color theory."
+		},
+		{
+			"name": "Agnieszka Malinowska",
+			"title": "UX Researcher at Smart Path",
+			"description": "Agnieszka specializes in qualitative and quantitative research to help designers understand user needs. Her work involves conducting interviews, A/B testing, and analyzing data from analytical tools."
+		},
+		{
+			"name": "Krzysztof Wiatr",
+			"title": "Voice Interface Specialist at VoiceFuture",
+			"description": "Krzysztof works on voice interfaces for virtual assistants and smart home systems. His mission is to create intuitive and user-friendly touchless solutions that make users’ lives easier."
+		},
+		{
+			"name": "Maria Kozłowska",
+			"title": "Lead UI Designer at BrightWorks",
+			"description": "Maria leads a team of UI designers, creating cohesive and aesthetic interfaces for corporate clients. She specializes in large-scale projects, ensuring consistency in visual identity."
+		},
+		{
+			"name": "Paweł Sikora",
+			"title": "User Psychology Specialist at UserSense",
+			"description": "Paweł combines psychology and UX knowledge to analyze users' emotions and motivations. His research on the impact of colors and typography on user perception helps design more engaging interfaces."
+		}
+	],
+
+	"contactUs": {
+		"title": "Contact Us",
+		"address": "Address",
+		"addressDetails": "UI/UX Conference Center, 123 Example Street, 00-000 Warsaw, Poland",
+		"contactInfo": "Contact Information",
+		"phone": "Phone",
+		"phoneNumber": "+48 123 456 789",
+		"email": "Email",
+		"emailAddress": "contact@uiuxconference.com",
+		"hours": "Working Hours",
+		"workingHours": "Monday - Friday: 9:00 AM - 5:00 PM",
+		"formTitle": "Send us a message",
+		"name": "Your Name",
+		"emailPlaceholder": "Your Email",
+		"message": "Your Message",
+		"send": "Send",
+		"findUs": "Find Us"
+	},
+
+	"menu": {
+		"appName": "UI/UX Conference",
+		"about": "About",
+		"organizingCommittee": "Organizing Committee",
+		"agenda": "Agenda",
+		"keynoteSpeakers": "Keynote Speakers",
+		"contact": "Contact",
+		"useFullInfo": "Usefull Information",
+		"directions": "Directions",
+		"accommodation": "Accommodation"
+	},
+
+	"speakers-header": "Presentation of Keynote Speakers",
+	"speakers": [
+		{
+			"name": "Dr. Anna Kowalska",
+			"title": "Lead UX Designer at TechNow Innovations",
+			"description": "Dr. Anna Kowalska is a user experience expert with extensive experience in researching user behavior in mobile applications. Her current projects focus on leveraging artificial intelligence to personalize user interactions, enabling the creation of more intuitive and tailored solutions. Dr. Kowalska will present her latest research findings and share practical insights on implementing AI in UX design."
+		},
+		{
+			"name": "Jan Nowak",
+			"title": "Innovation Director at PixelWave",
+			"description": "Jan Nowak is a visionary in AR and VR technologies, successfully integrating cutting-edge solutions into UI projects for the education and entertainment industries. During his presentation, Jan will discuss the opportunities that augmented and virtual reality offer for creating immersive and interactive user experiences. Attendees will learn how to effectively use these technologies in their projects."
+		},
+		{
+			"name": "Magdalena Wiśniewska",
+			"title": "Senior UX Specialist at WebMaster Pro",
+			"description": "With over 10 years of experience in designing responsive and accessible interfaces, Magdalena Wiśniewska is a pioneer in creating solutions tailored to the needs of people with disabilities. At the conference, Magdalena will showcase best practices and modern accessibility solutions that foster inclusion in the digital environment. Her presentation is a must-attend for designers focused on inclusivity."
+		},
+		{
+			"name": "Tomasz Zieliński",
+			"title": "CEO and Co-founder of Creatify",
+			"description": "Tomasz Zieliński is an entrepreneur passionate about user-centered design and the co-founder of Creatify, an agency specializing in e-commerce. Tomasz will demonstrate how a user-focused approach impacts conversions and customer satisfaction, sharing examples from his projects. His talk will provide valuable insights for those looking to enhance their e-commerce platforms with a user experience focus."
+		},
+		{
+			"name": "Dr. Marta Nowicka",
+			"title": "Human-Computer Interaction Expert at SmartLab",
+			"description": "Dr. Marta Nowicka is a researcher specializing in ergonomics and the efficiency of human-computer interactions. She focuses on designing user-friendly solutions for the healthcare sector. In her presentation, Dr. Nowicka will discuss how ergonomic design can influence user health and productivity, presenting findings from her medical sector research."
+		},
+		{
+			"name": "Piotr Wojciechowski",
+			"title": "UI Designer at DigitalCraft",
+			"description": "Piotr Wojciechowski, known for his minimalist design approach, specializes in crafting aesthetic desktop and mobile interfaces. His work stands out for its elegance and simplicity, with color theory playing a key role in his designs. Piotr will share his design philosophy and the tools he uses to create unique and intuitive interfaces."
+		},
+		{
+			"name": "Agnieszka Malinowska",
+			"title": "UX Researcher at Smart Path",
+			"description": "Agnieszka Malinowska specializes in user research, which forms the foundation for UX product design. Her work involves data analysis and A/B testing to help designers better understand user needs. At the conference, Agnieszka will discuss the best qualitative and quantitative research methods and how to extract actionable insights from them."
+		},
+		{
+			"name": "Krzysztof Wiatr",
+			"title": "Voice Interface Specialist at VoiceFuture",
+			"description": "Krzysztof Wiatr is an expert in voice interfaces, working on touchless interaction solutions for years. He specializes in designing intuitive systems for virtual assistants and smart home devices. His presentation will focus on the future of voice interfaces, highlighting the challenges and opportunities they bring to UX."
+		},
+		{
+			"name": "Maria Kozłowska",
+			"title": "Lead UI Designer at BrightWorks",
+			"description": "Maria Kozłowska leads a team of UI designers with experience in large-scale corporate projects. She specializes in maintaining visual consistency in complex projects. During the conference, Maria will discuss the challenges of working on extensive projects and demonstrate how to ensure visual coherence and client satisfaction."
+		},
+		{
+			"name": "Paweł Sikora",
+			"title": "User Psychology Specialist at UserSense",
+			"description": "Paweł Sikora combines psychology and UX expertise to create engaging and motivating interfaces. He analyzes how colors, typography, and other visual elements impact users' emotions. At the conference, Paweł will explore the psychological aspects of design that attract attention and boost user engagement."
+		}
+	],
+
+	"agenda": {
+		"day1": {
+			"title": "UI/UX Conference Agenda – Day 1",
+			"sessions": [
+				{
+					"time": "8:30 – 9:30",
+					"title": "Registration",
+					"description": "Participants have the opportunity to register, meet other attendees, and network over morning coffee."
+				},
+				{
+					"time": "9:30 – 10:00",
+					"title": "Conference Opening",
+					"description": "Welcome address by the organizers, presenting the conference's goals and mission."
+				},
+				{
+					"time": "10:00 – 11:00",
+					"title": "Opening Lecture: “Personalizing Interactions with Artificial Intelligence”",
+					"speaker": "Dr. Anna Kowalska, TechNow Innovations",
+					"description": "Dr. Kowalska will discuss the application of AI in personalizing user experiences in mobile applications, based on user behavior research."
+				},
+				{
+					"time": "11:00 – 11:15",
+					"title": "Break",
+					"description": ""
+				},
+				{
+					"time": "11:15 – 12:15",
+					"title": "Presentation: “New UI Technologies: AR and VR in Education and Entertainment”",
+					"speaker": "Jan Nowak, PixelWave",
+					"description": "An overview of interfaces based on augmented and virtual reality technologies and their applications in the education and entertainment industries."
+				},
+				{
+					"time": "12:15 – 13:15",
+					"title": "Workshop: “Designing Accessible Interfaces for People with Disabilities”",
+					"facilitator": "Magdalena Wiśniewska, WebMaster Pro",
+					"description": "Practical tips and best practices for designing user-friendly interfaces for all users, with a focus on accessibility."
+				},
+				{
+					"time": "13:15 – 14:30",
+					"title": "Lunch",
+					"description": ""
+				},
+				{
+					"time": "14:30 – 15:30",
+					"title": "Presentation: “User-Centered Design in E-Commerce”",
+					"speaker": "Tomasz Zieliński, Creatify",
+					"description": "Tomasz Zieliński will demonstrate how user-centered design impacts the success of e-commerce platforms and enhances customer satisfaction."
+				},
+				{
+					"time": "15:30 – 15:45",
+					"title": "Break",
+					"description": ""
+				},
+				{
+					"time": "15:45 – 16:45",
+					"title": "Panel Discussion: “Ergonomics and Efficiency in Designing Interfaces for the Healthcare Sector”",
+					"moderator": "Dr. Marta Nowicka, SmartLab",
+					"description": "A discussion on the specifics of designing for the healthcare sector and the impact of ergonomics on interface efficiency."
+				},
+				{
+					"time": "16:45 – 17:15",
+					"title": "Day Summary and Session Closure",
+					"description": "A brief session summarizing the key points of the day."
+				}
+			]
+		},
+		"day2": {
+			"title": "UI/UX Conference Agenda – Day 2",
+			"sessions": [
+				{
+					"time": "9:00 – 10:00",
+					"title": "Registration",
+					"description": "Participants can register and start the day with informal networking."
+				},
+				{
+					"time": "10:00 – 11:00",
+					"title": "Workshop: “Minimalism and Color Theory in UI Design”",
+					"presenter": "Piotr Wojciechowski, DigitalCraft",
+					"description": "A workshop focused on a minimalist approach to design and the application of color theory to create elegant and clear interfaces."
+				},
+				{
+					"time": "11:00 – 11:15",
+					"title": "Break",
+					"description": ""
+				},
+				{
+					"time": "11:15 – 12:15",
+					"title": "Presentation: “User Data Analysis for Better UX”",
+					"presenter": "Agnieszka Malinowska, Smart Path",
+					"description": "Agnieszka Malinowska will discuss tools and techniques for analyzing user data and how they contribute to designing a user-friendly UX."
+				},
+				{
+					"time": "12:15 – 13:15",
+					"title": "Presentation: “Voice and Touchless Interfaces – The Future of Interaction”",
+					"presenter": "Krzysztof Wiatr, VoiceFuture",
+					"description": "An overview of the role of voice interfaces and their impact on users’ daily interactions with technology, particularly in smart home and virtual assistant contexts."
+				},
+				{
+					"time": "13:15 – 14:30",
+					"title": "Lunch",
+					"description": ""
+				},
+				{
+					"time": "14:30 – 15:30",
+					"title": "Presentation: “Maintaining Visual Consistency in Large Corporate Projects”",
+					"presenter": "Maria Kozłowska, BrightWorks",
+					"description": "Maria Kozłowska will share her experience in large-scale UI design, addressing the challenges of maintaining consistency in visual identity."
+				},
+				{
+					"time": "15:30 – 15:45",
+					"title": "Break",
+					"description": ""
+				},
+				{
+					"time": "15:45 – 16:45",
+					"title": "Presentation: “User Psychology: Motivation, Emotions, and Engagement”",
+					"presenter": "Paweł Sikora, UserSense",
+					"description": "A presentation on the role of psychology in UX, analyzing user emotions and motivations, and the impact of visual elements on user engagement."
+				},
+				{
+					"time": "16:45 – 17:15",
+					"title": "Conference Closing and Summary",
+					"description": "A recap of key takeaways from the two-day conference and a thank-you to participants and speakers."
+				}
+			]
+		}
+	},
+
+	"directions-title": "Getting to TechVille",
+
+	"directions": [
+		{
+			"method": "By Car",
+			"details": "From major cities: TechVille is located a 2-hour drive from the capital, with convenient access via the A1 and S5 highways. Parking facilities are available near the conference venue for participants."
+		},
+		{
+			"method": "By Bus",
+			"details": "From major cities: Regular bus connections operated by QuickBus and CityConnect. The \"TechVille Center\" stop is a 10-minute walk from the conference venue.\nCity connections: TechVille offers a public transport system providing easy access to key city locations."
+		},
+		{
+			"method": "By Train",
+			"details": "Nearest train station: \"TechVille Main,\" a 15-minute walk from the conference venue.\nConnections: Direct routes from major cities operated by InterCity and ExpressLine."
+		},
+		{
+			"method": "By Plane",
+			"details": "Nearest airport: TechVille Airport (TVL), located 20 km from the city center.\nTransfers: Airport shuttles and bus lines connect the airport to TechVille's city center."
+		}
+	],
+
+	"accommodations-title": "Accommodation",
+
+	"accommodations": [
+		{
+			"name": "Guest Rooms by the Market Square",
+			"location": "Old Town, a 5-minute drive",
+			"standard": "Apartments",
+			"amenities": ["Wi-Fi", "kitchenette", "parking"],
+			"price": "from 250 PLN/night"
+		},
+		{
+			"name": "Hostel Connect",
+			"location": "15-minute walk from the conference venue",
+			"standard": "Hostel",
+			"amenities": ["Wi-Fi", "shared kitchen", "private and dormitory rooms"],
+			"price": "from 100 PLN/night"
+		},
+		{
+			"name": "TechVille Inn",
+			"location": "10-minute drive from the conference venue",
+			"standard": "3-star",
+			"amenities": ["Wi-Fi", "free parking", "breakfast included"],
+			"price": "from 200 PLN/night"
+		},
+		{
+			"name": "Hotel Innovate",
+			"location": "City center, a 5-minute walk from the conference venue",
+			"standard": "4-star",
+			"amenities": ["Wi-Fi", "gym", "restaurant", "access to conference rooms"],
+			"price": "from 300 PLN/night"
+		},
+		{
+			"name": "CityView Apartments",
+			"location": "8-minute drive from the conference venue",
+			"standard": "2-star",
+			"amenities": ["Wi-Fi", "breakfast", "family-friendly"],
+			"price": "from 150 PLN/night"
+		}
+	],
+
+	"form": {
+		"description": "Sign up to participate in the event",
+		"fields": [
+			"Full Name:",
+			"Affiliation:",
+			"Academic Title:",
+			"Presentation Abstract (up to 200 characters):",
+			"Email:",
+			"Phone Number:"
+		],
+		"submit": "Submit"
+	}
+}

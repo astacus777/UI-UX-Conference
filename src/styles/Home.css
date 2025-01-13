@@ -1,0 +1,18 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: left;
+    padding: 20px;
+    font-size: 24px;
+}
+.container2 {
+    position: relative;
+    top: 50;
+    left: 20;
+    width: 100vw;
+    height: 50vh;
+    background-image: url("/images/monitor.jpg");
+
+    background-size: cover;
+}

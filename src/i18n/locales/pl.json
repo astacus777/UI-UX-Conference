@@ -1,0 +1,377 @@
+{
+	"home": "Strona główna",
+	"about": "O nas",
+	"contact": "Kontakt",
+	"forms": "Formularz zgloszeniowy",
+
+	"mission": {
+		"title": "Nasza Misja",
+		"content": [
+			"Naszą misją jest zgromadzenie profesjonalistów, pasjonatów i innowatorów w dziedzinie UI i UX, aby wspólnie dzielić się wiedzą, doświadczeniami oraz nowymi trendami, które kształtują przyszłość projektowania interfejsów użytkownika i doświadczeń użytkowników.",
+			"Konferencja ma na celu inspirować uczestników do odkrywania nowych perspektyw, rozwijania swoich umiejętności oraz wdrażania nowoczesnych technologii i najlepszych praktyk, które poprawiają interakcję ludzi z technologią.",
+			"Chcemy stworzyć przestrzeń, w której uczestnicy będą mogli uczyć się od liderów branży, eksplorować innowacyjne podejścia do projektowania oraz nawiązywać kontakty, które będą wspierać ich rozwój zawodowy.",
+			"Wierzymy, że wyjątkowe doświadczenia użytkowników zaczynają się od zrozumienia ich potrzeb, a nasza konferencja stanowi krok w kierunku budowania lepszych i bardziej przyjaznych cyfrowych produktów."
+		]
+	},
+
+	"home-p": {
+		"welcome": "Witamy na konferencji UI/UX",
+		"info": [
+			"UI i UX – Kluczowe Koncepcje Projektowania dla Skutecznych Produktów Cyfrowych",
+			"W dynamicznym świecie technologii użytkownik oczekuje, że produkty cyfrowe będą nie tylko funkcjonalne, ale i przyjazne. Na konferencji zgłębimy różnicę i wzajemne uzupełnianie się UI (User Interface) oraz UX (User Experience) – dwóch filarów efektywnego projektowania.",
+			"User Interface (UI): Sztuka wizualnego projektowania interakcji z użytkownikiem. UI to elementy graficzne, które tworzą pierwsze wrażenie – przyciski, ikony, kolorystyka, typografia i ogólny układ, który sprawia, że produkt jest atrakcyjny wizualnie i intuicyjny w obsłudze.",
+			"User Experience (UX): Proces budowania pozytywnego doświadczenia użytkownika od pierwszego kontaktu z produktem. UX projektuje przepływ i funkcjonalność, które pomagają użytkownikom szybko i łatwo osiągać cele, a także dostarczają im wartościowych wrażeń. Dobre UX to nie tylko wygoda, ale i zaangażowanie użytkownika, prowadzące do satysfakcji.",
+			"Dołącz do nas na konferencji, aby poznać nowoczesne techniki, najlepsze praktyki oraz strategie łączenia UI i UX, które tworzą produkty cyfrowe przyciągające użytkowników i zapewniające im niezapomniane doświadczenia."
+		]
+	},
+
+	"conferenceParticipants": "Lista Uczestników Konferencji UI/UX",
+	"participants": [
+		{
+			"name": "Dr Anna Kowalska",
+			"title": "Główny projektant UX w TechNow Innovations",
+			"description": "Dr Anna Kowalska specjalizuje się w badaniach nad zachowaniami użytkowników i projektowaniu doświadczeń w aplikacjach mobilnych. Prowadzi badania nad zastosowaniem sztucznej inteligencji do personalizacji interakcji użytkownika."
+		},
+		{
+			"name": "Jan Nowak",
+			"title": "Dyrektor ds. Innowacji w PixelWave",
+			"description": "Jan Nowak jest odpowiedzialny za wdrażanie najnowszych technologii w projektach UI. Jego zespół zajmuje się tworzeniem interfejsów opartych na technologiach AR i VR dla branży edukacyjnej i rozrywkowej."
+		},
+		{
+			"name": "Magdalena Wiśniewska",
+			"title": "Starszy specjalista UX w WebMaster Pro",
+			"description": "Magdalena ma ponad 10 lat doświadczenia w projektowaniu responsywnych interfejsów. Specjalizuje się w projektowaniu dostępnych interfejsów i tworzeniu rozwiązań przyjaznych dla osób z niepełnosprawnościami."
+		},
+		{
+			"name": "Tomasz Zieliński",
+			"title": "CEO i współzałożyciel Creatify",
+			"description": "Tomasz jest przedsiębiorcą, który założył Creatify – agencję specjalizującą się w tworzeniu platform e-commerce. Pracuje nad projektami z zakresu user-centered design, dążąc do maksymalizacji satysfakcji użytkowników."
+		},
+		{
+			"name": "Dr Marta Nowicka",
+			"title": "Ekspert ds. Interakcji Człowiek-Komputer w SmartLab",
+			"description": "Dr Nowicka koncentruje się na badaniach nad ergonomią interfejsów i ich wpływem na efektywność pracy. Prowadzi projekty badawcze dla firm z sektora zdrowotnego, koncentrując się na tworzeniu bezpiecznych i przyjaznych rozwiązań cyfrowych."
+		},
+		{
+			"name": "Piotr Wojciechowski",
+			"title": "Projektant UI w DigitalCraft",
+			"description": "Piotr zajmuje się tworzeniem interfejsów dla aplikacji desktopowych i mobilnych. Jego praca skupia się na prostocie i elegancji, często stosując minimalizm i zasady projektowania oparte na teorii kolorów."
+		},
+		{
+			"name": "Agnieszka Malinowska",
+			"title": "UX Researcher w Smart Path",
+			"description": "Agnieszka specjalizuje się w badaniach jakościowych i ilościowych, które pomagają projektantom zrozumieć potrzeby użytkowników. Jej praca polega na przeprowadzaniu wywiadów, testów A/B i analizowaniu danych z narzędzi analitycznych."
+		},
+		{
+			"name": "Krzysztof Wiatr",
+			"title": "Specjalista ds. Interfejsów głosowych w VoiceFuture",
+			"description": "Krzysztof pracuje nad interfejsami głosowymi dla asystentów wirtualnych i systemów smart home. Jego misją jest tworzenie intuicyjnych i przyjaznych rozwiązań bezdotykowych, które ułatwiają życie użytkowników."
+		},
+		{
+			"name": "Maria Kozłowska",
+			"title": "Lead UI Designer w BrightWorks",
+			"description": "Maria zarządza zespołem projektantów UI, tworząc spójne i estetyczne interfejsy dla klientów korporacyjnych. Specjalizuje się w projektach o dużej skali, dbając o zachowanie spójności w identyfikacji wizualnej."
+		},
+		{
+			"name": "Paweł Sikora",
+			"title": "Specjalista ds. Psychologii Użytkownika w UserSense",
+			"description": "Paweł łączy wiedzę z zakresu psychologii i UX, aby analizować emocje i motywacje użytkowników. Jego badania nad wpływem kolorów i typografii na percepcję użytkowników pomagają tworzyć bardziej angażujące interfejsy."
+		}
+	],
+
+	"contactUs": {
+		"title": "Kontakt",
+		"address": "Adres",
+		"addressDetails": "UI/UX Conference Center, ul. Przykładowa 123, 00-000 Warszawa, Polska",
+		"contactInfo": "Informacje kontaktowe",
+		"phone": "Telefon",
+		"phoneNumber": "+48 123 456 789",
+		"email": "Email",
+		"emailAddress": "kontakt@uiuxkonferencja.pl",
+		"hours": "Godziny pracy",
+		"workingHours": "Poniedziałek - Piątek: 9:00 - 17:00",
+		"formTitle": "Wyślij nam wiadomość",
+		"name": "Twoje Imię",
+		"emailPlaceholder": "Twój Email",
+		"message": "Twoja Wiadomość",
+		"send": "Wyślij",
+		"findUs": "Znajdź nas"
+	},
+	"menu": {
+		"appName": "Konferencja UI/UX",
+		"about": "O nas",
+		"organizingCommittee": "Komitet Organizacyjny",
+		"agenda": "Agenda",
+		"keynoteSpeakers": "Główni Mówcy",
+		"contact": "Kontakt",
+		"useFullInfo": "Informacje dla uczestnikow",
+		"directions": "Dojazd",
+		"accommodation": "Baza noclegowa"
+	},
+
+	"speakers-header": "Główny projektant UX w TechNow Innovations",
+
+	"speakers": [
+		{
+			"name": "Dr Anna Kowalska",
+			"title": "Główny projektant UX w TechNow Innovations",
+			"description": "Dr Anna Kowalska jest ekspertem w dziedzinie doświadczeń użytkowników z wieloletnim doświadczeniem w badaniach nad zachowaniami użytkowników w aplikacjach mobilnych. Jej obecne projekty skupiają się na zastosowaniu sztucznej inteligencji do personalizacji interakcji użytkownika, co pozwala na tworzenie bardziej intuicyjnych i spersonalizowanych rozwiązań. Dr Kowalska zaprezentuje najnowsze wyniki swoich badań, a także podzieli się praktycznymi wskazówkami dotyczącymi wdrażania AI w projektowaniu UX."
+		},
+		{
+			"name": "Jan Nowak",
+			"title": "Dyrektor ds. Innowacji w PixelWave",
+			"description": "Jan Nowak jest wizjonerem w dziedzinie technologii AR i VR, z sukcesem wdrażającym nowoczesne technologie w projektach UI dla branży edukacyjnej i rozrywkowej. Podczas swojej prezentacji Jan opowie o możliwościach, jakie daje rozszerzona i wirtualna rzeczywistość w tworzeniu wciągających i interaktywnych doświadczeń użytkownika. Uczestnicy dowiedzą się, jak efektywnie wykorzystać te technologie w swoich projektach."
+		},
+		{
+			"name": "Magdalena Wiśniewska",
+			"title": "Starszy specjalista UX w WebMaster Pro",
+			"description": "Magdalena Wiśniewska, posiadająca ponad 10 lat doświadczenia w projektowaniu responsywnych i dostępnych interfejsów, jest pionierem w tworzeniu rozwiązań dostosowanych do potrzeb osób z niepełnosprawnościami. W trakcie konferencji Magdalena przedstawi najlepsze praktyki i nowoczesne rozwiązania dostępnościowe, które wspierają integrację wszystkich użytkowników w środowisku cyfrowym. Jej prezentacja to obowiązkowy punkt dla projektantów stawiających na inkluzywność."
+		},
+		{
+			"name": "Tomasz Zieliński",
+			"title": "CEO i współzałożyciel Creatify",
+			"description": "Tomasz Zieliński jest przedsiębiorcą z pasją do user-centered designu i współzałożycielem agencji Creatify, specjalizującej się w e-commerce. Tomasz zaprezentuje, jak podejście skoncentrowane na użytkowniku wpływa na konwersje i satysfakcję klientów oraz podzieli się przykładami ze swoich projektów. Jego wykład dostarczy cennych wskazówek dla tych, którzy chcą rozwijać swoje platformy e-commerce z myślą o doświadczeniu użytkowników."
+		},
+		{
+			"name": "Dr Marta Nowicka",
+			"title": "Ekspert ds. Interakcji Człowiek-Komputer w SmartLab",
+			"description": "Dr Marta Nowicka jest badaczem z zakresu ergonomii i efektywności interakcji człowiek-komputer. Specjalizuje się w projektowaniu przyjaznych rozwiązań dla sektora zdrowotnego. W swojej prezentacji dr Nowicka omówi, jak odpowiednie projektowanie ergonomiczne może wpłynąć na zdrowie i wydajność użytkowników, oraz przedstawi wyniki swoich badań z sektora medycznego."
+		},
+		{
+			"name": "Piotr Wojciechowski",
+			"title": "Projektant UI w DigitalCraft",
+			"description": "Piotr Wojciechowski, znany z minimalistycznego podejścia do projektowania, jest specjalistą w tworzeniu estetycznych interfejsów desktopowych i mobilnych. Jego prace wyróżniają się elegancją i prostotą, a zasady teorii kolorów stanowią kluczowy element jego projektów. Piotr podzieli się swoją filozofią projektowania oraz narzędziami, które pomagają mu tworzyć unikalne i czytelne interfejsy."
+		},
+		{
+			"name": "Agnieszka Malinowska",
+			"title": "UX Researcher w Smart Path",
+			"description": "Agnieszka Malinowska specjalizuje się w badaniach użytkowników, które stanowią fundament przy projektowaniu produktów UX. Jej praca polega na analizie danych i testach A/B, dzięki którym projektanci mogą lepiej rozumieć potrzeby użytkowników. Na konferencji Agnieszka opowie o najlepszych metodach badań jakościowych i ilościowych oraz o tym, jak wyciągać z nich użyteczne wnioski."
+		},
+		{
+			"name": "Krzysztof Wiatr",
+			"title": "Specjalista ds. Interfejsów głosowych w VoiceFuture",
+			"description": "Krzysztof Wiatr jest ekspertem w dziedzinie interfejsów głosowych, który od lat pracuje nad rozwiązaniami do bezdotykowej interakcji. Specjalizuje się w projektowaniu intuicyjnych systemów dla asystentów wirtualnych i inteligentnych urządzeń domowych. Jego prezentacja skupi się na przyszłości interfejsów głosowych oraz na wyzwaniach i możliwościach, jakie oferują dla UX."
+		},
+		{
+			"name": "Maria Kozłowska",
+			"title": "Lead UI Designer w BrightWorks",
+			"description": "Maria Kozłowska jest liderką zespołu projektantów UI, z doświadczeniem w realizacji projektów korporacyjnych na dużą skalę. Specjalizuje się w zachowaniu spójności wizualnej w rozbudowanych projektach. Podczas konferencji Maria przedstawi wyzwania, jakie niesie praca nad dużymi projektami, i zaprezentuje, jak zapewniać spójność wizualną oraz zadowolenie klientów."
+		},
+		{
+			"name": "Paweł Sikora",
+			"title": "Specjalista ds. Psychologii Użytkownika w UserSense",
+			"description": "Paweł Sikora łączy wiedzę z zakresu psychologii i UX, aby tworzyć angażujące i motywujące interfejsy. W swojej pracy analizuje, jak kolory, typografia i inne elementy wizualne wpływają na emocje użytkowników. Na konferencji Paweł opowie o psychologicznych aspektach projektowania, które mogą przyciągnąć uwagę i zwiększyć zaangażowanie użytkowników."
+		}
+	],
+
+	"agenda": {
+		"day1": {
+			"title": "Agenda Konferencji UI/UX – Dzień 1",
+			"sessions": [
+				{
+					"time": "8:30 – 9:30",
+					"title": "Rejestracja",
+					"description": "Uczestnicy mają okazję się zarejestrować, poznać innych uczestników i nawiązać kontakty przy porannej kawie."
+				},
+				{
+					"time": "9:30 – 10:00",
+					"title": "Otwarcie Konferencji",
+					"description": "Powitanie przez organizatorów, prezentacja celów i misji konferencji."
+				},
+				{
+					"time": "10:00 – 11:00",
+					"title": "Wykład otwierający: „Personalizacja interakcji z wykorzystaniem sztucznej inteligencji”",
+					"speaker": "Dr Anna Kowalska, TechNow Innovations",
+					"description": "Dr Kowalska omówi zastosowanie sztucznej inteligencji w personalizacji doświadczeń użytkowników w aplikacjach mobilnych, opierając się na badaniach zachowań użytkowników."
+				},
+				{
+					"time": "11:00 – 11:15",
+					"title": "Przerwa",
+					"description": ""
+				},
+				{
+					"time": "11:15 – 12:15",
+					"title": "Prezentacja: „Nowe technologie UI: AR i VR w edukacji i rozrywce”",
+					"speaker": "Jan Nowak, PixelWave",
+					"description": "Przegląd interfejsów opartych na technologiach rzeczywistości rozszerzonej i wirtualnej oraz ich zastosowania w edukacji i branży rozrywkowej."
+				},
+				{
+					"time": "12:15 – 13:15",
+					"title": "Warsztat: „Projektowanie dostępnych interfejsów dla osób z niepełnosprawnościami”",
+					"facilitator": "Magdalena Wiśniewska, WebMaster Pro",
+					"description": "Praktyczne wskazówki i najlepsze praktyki dotyczące projektowania przyjaznych dla użytkowników interfejsów, ze szczególnym uwzględnieniem dostępności."
+				},
+				{
+					"time": "13:15 – 14:30",
+					"title": "Lunch",
+					"description": ""
+				},
+				{
+					"time": "14:30 – 15:30",
+					"title": "Prezentacja: „Projektowanie zorientowane na użytkownika w e-commerce”",
+					"speaker": "Tomasz Zieliński, Creatify",
+					"description": "Tomasz Zieliński pokaże, jak projektowanie skoncentrowane na użytkowniku wpływa na sukces platform e-commerce i zwiększa satysfakcję klientów."
+				},
+				{
+					"time": "15:30 – 15:45",
+					"title": "Przerwa",
+					"description": ""
+				},
+				{
+					"time": "15:45 – 16:45",
+					"title": "Dyskusja panelowa: „Ergonomia i efektywność w projektowaniu interfejsów dla sektora zdrowotnego”",
+					"moderator": "Dr Marta Nowicka, SmartLab",
+					"description": "Dyskusja na temat specyfiki projektowania dla sektora zdrowotnego i wpływu ergonomii na efektywność interfejsów."
+				},
+				{
+					"time": "16:45 – 17:15",
+					"title": "Podsumowanie dnia i zakończenie sesji",
+					"description": "Krótka sesja podsumowująca najważniejsze punkty dnia."
+				}
+			]
+		},
+		"day2": {
+			"title": "Agenda Konferencji UI/UX – Dzień 2",
+			"sessions": [
+				{
+					"time": "9:00 – 10:00",
+					"title": "Rejestracja",
+					"description": "Uczestnicy mogą się zarejestrować i rozpocząć dzień od nieformalnych spotkań networkingowych."
+				},
+				{
+					"time": "10:00 – 11:00",
+					"title": "Warsztat: „Minimalizm i teoria kolorów w projektowaniu UI”",
+					"presenter": "Piotr Wojciechowski, DigitalCraft",
+					"description": "Warsztat skupiony na minimalistycznym podejściu do projektowania oraz zastosowaniu teorii kolorów w tworzeniu eleganckich i przejrzystych interfejsów."
+				},
+				{
+					"time": "11:00 – 11:15",
+					"title": "Przerwa",
+					"description": ""
+				},
+				{
+					"time": "11:15 – 12:15",
+					"title": "Prezentacja: „Analiza danych użytkowników dla lepszego UX”",
+					"presenter": "Agnieszka Malinowska, Smart Path",
+					"description": "Agnieszka Malinowska omówi narzędzia i techniki analizy danych użytkowników oraz ich wkład w projektowanie przyjaznego UX."
+				},
+				{
+					"time": "12:15 – 13:15",
+					"title": "Prezentacja: „Interfejsy głosowe i bezdotykowe – przyszłość interakcji”",
+					"presenter": "Krzysztof Wiatr, VoiceFuture",
+					"description": "Przegląd roli interfejsów głosowych i ich wpływu na codzienne interakcje użytkowników z technologią, szczególnie w kontekście inteligentnych domów i asystentów wirtualnych."
+				},
+				{
+					"time": "13:15 – 14:30",
+					"title": "Lunch",
+					"description": ""
+				},
+				{
+					"time": "14:30 – 15:30",
+					"title": "Prezentacja: „Utrzymanie spójności wizualnej w dużych projektach korporacyjnych”",
+					"presenter": "Maria Kozłowska, BrightWorks",
+					"description": "Maria Kozłowska podzieli się doświadczeniem w projektach na dużą skalę, omawiając wyzwania związane z zachowaniem spójności wizualnej."
+				},
+				{
+					"time": "15:30 – 15:45",
+					"title": "Przerwa",
+					"description": ""
+				},
+				{
+					"time": "15:45 – 16:45",
+					"title": "Prezentacja: „Psychologia użytkownika: motywacja, emocje i zaangażowanie”",
+					"presenter": "Paweł Sikora, UserSense",
+					"description": "Prezentacja na temat roli psychologii w UX, analiza emocji i motywacji użytkowników oraz wpływ elementów wizualnych na zaangażowanie."
+				},
+				{
+					"time": "16:45 – 17:15",
+					"title": "Zamknięcie i podsumowanie konferencji",
+					"description": "Podsumowanie kluczowych wniosków z dwudniowej konferencji oraz podziękowania dla uczestników i mówców."
+				}
+			]
+		}
+	},
+
+	"directions-title": "Dojazd do TechVille",
+
+	"directions": [
+		{
+			"method": "Samochodem",
+			"details": "Z głównych miast: TechVille jest położone 2 godziny jazdy od stolicy, z dogodnym dostępem do autostrad A1 i S5. W okolicy miejsca konferencji znajdują się parkingi dostępne dla uczestników."
+		},
+		{
+			"method": "Autobusem",
+			"details": "Z głównych miast: Regularne połączenia autobusowe obsługiwane przez firmę QuickBus i CityConnect. Przystanek „TechVille Centrum” znajduje się 10 minut spacerem od miejsca konferencji.\nMiejskie połączenia: W TechVille dostępna jest komunikacja miejska, która zapewnia łatwy dojazd do głównych punktów miasta."
+		},
+		{
+			"method": "Pociągiem",
+			"details": "Najbliższa stacja kolejowa: „TechVille Główna”, 15 minut spacerem od miejsca konferencji.\nPołączenia: Bezpośrednie połączenia z głównymi miastami obsługiwane przez InterCity i ExpressLine."
+		},
+		{
+			"method": "Samolotem",
+			"details": "Najbliższe lotnisko: Port lotniczy TechVille (TVL), oddalony o 20 km od centrum miasta.\nTransfery: Dostępne transfery lotniskowe i linie autobusowe łączące lotnisko z centrum TechVille."
+		}
+	],
+
+	"accommodations-title": "Noclegi",
+
+	"accommodations": [
+		{
+			"name": "Pokoje Gościnne przy Rynku",
+			"location": "Stare Miasto, 5 minut jazdy samochodem",
+			"standard": "Apartamenty",
+			"amenities": ["Wi-Fi", "aneks kuchenny", "parking"],
+			"price": "od 250 PLN/noc"
+		},
+		{
+			"name": "Hostel Connect",
+			"location": "15 minut pieszo od miejsca konferencji",
+			"standard": "Hostel",
+			"amenities": [
+				"Wi-Fi",
+				"wspólna kuchnia",
+				"pokoje prywatne i wieloosobowe"
+			],
+			"price": "od 100 PLN/noc"
+		},
+		{
+			"name": "TechVille Inn",
+			"location": "10 minut jazdy samochodem od miejsca konferencji",
+			"standard": "3-gwiazdkowy",
+			"amenities": ["Wi-Fi", "bezpłatny parking", "śniadanie w cenie"],
+			"price": "od 200 PLN/noc"
+		},
+		{
+			"name": "Hotel Innovate",
+			"location": "Centrum miasta, 5 minut pieszo od miejsca konferencji",
+			"standard": "4-gwiazdkowy",
+			"amenities": [
+				"Wi-Fi",
+				"siłownia",
+				"restauracja",
+				"dostęp do sal konferencyjnych"
+			],
+			"price": "od 300 PLN/noc"
+		},
+		{
+			"name": "CityView Apartamenty",
+			"location": "8 minut jazdy samochodem od miejsca konferencji",
+			"standard": "2-gwiazdkowy",
+			"amenities": ["Wi-Fi", "śniadanie", "przyjazny rodzinom"],
+			"price": "od 150 PLN/noc"
+		}
+	],
+
+	"form": {
+		"description": "Zapisz się, by wziąć udział w wydarzeniu",
+		"fields": [
+			"Imię i nazwisko:",
+			"Afiliacja:",
+			"Tytuł naukowy:",
+			"Abstrakt wystąpienia (do 200 znaków):",
+			"Email:",
+			"Nr telefonu:"
+		],
+		"submit": "Wyślij"
+	}
+}
